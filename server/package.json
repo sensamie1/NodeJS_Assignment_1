@@ -1,0 +1,19 @@
+{
+  "name": "assignment_app",
+  "version": "1.0.0",
+  "description": "This a server assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "http",
+    "server"
+  ],
+  "author": "Samuel Ezealor",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

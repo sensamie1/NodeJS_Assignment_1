@@ -1,0 +1,14 @@
+{
+  "name": "assignment_app",
+  "version": "1.0.0",
+  "description": "This ia an fs module nodejs assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs"
+  ],
+  "author": "Samuel Ezealor",
+  "license": "ISC"
+}
